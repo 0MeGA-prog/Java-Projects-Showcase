@@ -1,1 +1,1 @@
-Source files for Java geometry framework.
+Delete src/README.txt
